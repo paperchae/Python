@@ -5,7 +5,6 @@ b=list(0 for _ in range(N))
 cnt=0
 for num in a:
     if(num<X):
-#commit test~!!!
         b[cnt]=num
         cnt+=1
         
